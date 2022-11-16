@@ -1,0 +1,41 @@
+{
+	"name": "minimalistik2-theme",
+	"displayName": "Minimalistik2 ",
+	"description": "A theme for VS Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "LeonardoKist",
+	"author": {
+		"name": "Leonardo Kist",
+		"url": "https://github.com/leokist/Minimalistik2-Theme.git",
+		"type": "git"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"minimalistik",
+		"mini",
+		"orange theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Minimalistik2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Minimalistik2-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "00f1322f-f8c1-451d-acbc-baccc0e96baf",
+		"publisherId": "86480868-dd41-4bc6-8b9e-139ecc74f75f",
+		"publisherDisplayName": "Leonardo Kist",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1639656623992
+	}
+}
